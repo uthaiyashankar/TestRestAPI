@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.1"
+  export = ["testrestapi"]
+  name = "testrestapi"
+  org = "selvaratnamuthaiyashankar"
+
